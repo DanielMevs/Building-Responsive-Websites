@@ -3,19 +3,20 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Converse Shoe Store</title>
   </head>
   <body>
-    <article>
+    <article class="product">
       <header>
-        <h2>Converse Chuck Taylor All Star Low Top</h2>
+        <h2 class="title">Converse Chuck Taylor All Star Low Top</h2>
         <img
           src="img/challenges.jpg"
           width="250"
           height="250"
           alt="Chuck Taylor All-star shoe"
         />
-        <p><strong>$65.00</strong></p>
+        <p class="price"><strong>$65.00</strong></p>
       </header>
       <p>Free Shipping</p>
       <p>
@@ -23,11 +24,14 @@
         wardrobe staple.
       </p>
       <p>
-        <a href="https://www.converse.com/shop/" target="_blank"
+        <a
+          class="more-info"
+          href="https://www.converse.com/shop/"
+          target="_blank"
           >More information &rarr;</a
         >
       </p>
-      <h3>Product details</h3>
+      <h3 class="details-title">Product details</h3>
       <ul>
         <li>
           <p>Lightweight, durable canvas sneaker</p>
@@ -39,7 +43,7 @@
           <p>Iconic Chuck Taylor ankle patch.</p>
         </li>
       </ul>
-      <button>Add to cart</button>
+      <button class="cart">Add to cart</button>
     </article>
   </body>
 </html>
