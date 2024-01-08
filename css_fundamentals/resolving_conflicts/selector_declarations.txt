@@ -1,0 +1,19 @@
+Resolving conflicting declarations
+In order of highest to lowest prioriety:
+Declarations marked with !important
+Inline style
+ID Selectors
+Class or pseudo-class selectors
+Element selectors
+Universal selector
+
+In the below code,
+the id will be applied
+because that has higher
+priorty 
+
+In the case of selectors
+with the same priority,
+the selector that appears
+last in the code gets
+applied

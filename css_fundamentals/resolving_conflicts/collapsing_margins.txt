@@ -1,0 +1,6 @@
+Lets say you have one div with a margin bottom of 15px
+and div below that one with a margin top of 40.
+Although we may intuitively think that these margins
+add up together to give us a combined margin of 55px.
+However, given two margins that occupy the same space,
+only the greater of the two will be applied.

@@ -1,0 +1,9 @@
+Content: text, image
+Border: a line around the element, still inside
+of the element.
+Padding: invisible space around the content,
+inside of the element.
+Margin: space outside of the element, between
+elements.
+Fill area: Area that gets filled with background 
+color or background image.
