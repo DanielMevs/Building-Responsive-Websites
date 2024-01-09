@@ -1,0 +1,31 @@
+Block-level Boxes:
+Take up all the space they need horizontally
+L> cannot be side-by-side
+L>Elements are formatted visually as blocks
+L>Elements occupy 100% of parent element's width,
+    no matter the content
+L>Elements are stacked vertically by default,
+    one after another.
+L> Include default elements: body, main, header,
+    footer, section, nav, aside, div, h1-h6, p,
+    ul, ol, li, etc...
+L> With CSS -> diplay: block
+
+Inline Boxes:
+Occupies only the space necessary for its content
+L> Causes no line-breaks after or before the 
+    element
+L> Box model applies in a different way: heights
+    and widths do not apply
+L> Paddings and margins are applied only 
+    horizontally (left and right)
+L> Default elements: a, img, strong, em,
+    button, etc.
+
+Inline-block Box:
+Looks like inline from the ouside, but behaves
+    like a block-level on the inside
+L> Occupies only content's space
+L> Causes no line-breaks
+L> Box-model applies as block-level
+L> With CSS -> display: inline-block
