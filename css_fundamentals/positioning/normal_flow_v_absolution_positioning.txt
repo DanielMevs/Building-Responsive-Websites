@@ -1,0 +1,18 @@
+***Normal Flow V. Aboolute Positioning***
+
+NORMAL FLOW 
+- Default positioning
+- Element is "in flow"
+- Elements are simply laid out according to their
+    order in the HTML code
+L> Default Positioning 
+    position: relative
+
+ABSOLUTE POSITIONING
+- Element is removed from the normal flow:
+    "out of flow"
+- No impact on surrounding elements, might overlap
+     them
+- We use top, bottom, left, or right to offset the 
+    element from its relatively positioned container
+L> position: absolute
