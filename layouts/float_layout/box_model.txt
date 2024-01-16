@@ -1,0 +1,9 @@
+The Box Model W/out Box-Sizing: Border-Box (Content Box, Default)
+
+Final element width = right border + right padding + width + left padding + left border
+final element height = top border + top padding + height + bottom padding + bottom border
+
+The Box Model With Box-Sizing: Border-Box
+
+final element width = width
+final element height = height

@@ -1,0 +1,29 @@
+Normal Flow
+- Default positioning
+- Element is "in flow"
+- Elements are simply laid out according
+    to their order in the HTML code
+- Default positioning:
+    position: relative
+
+Absolute Positioning 
+- Element is removed from the normal flow:
+    "out of flow"
+- No impact on surrounding elements, might
+    overlap them
+- We use top, bottom, left or right to 
+    offset the element from its relatively
+    positioned container
+- Default Positioning:
+    position: absolute 
+
+Floats
+- Element is removed from the normal flow:
+    "out of flow"
+- Text and inline elements will wrap around
+    the floated element
+- The container will not adjust its height to
+    the element.
+- Default positioning:
+    float: left
+    float: right

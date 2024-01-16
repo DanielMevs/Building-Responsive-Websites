@@ -1,0 +1,27 @@
+Layout
+-Layout is the way text, images, and other content is placed and 
+arranged on a webpage.
+
+-Layout gives the page a visual structure, into which we 
+place our content
+
+-Building a layout: arranging page elements into a visual 
+structure, instead of simply having them placed one after
+another (normal flow).
+
+Page Layout V. Component Layout
+
+3 Ways of Building Layouts w/ CSS
+
+1. Float layouts: the old way of building layouts of all 
+sizes using the float CSS property. Still used, but getting
+outdated fast.
+
+2. Flexbox: modern way of laying out elements in a 
+1-dimensional row w/out using floats.
+- Perfect for Component layouts
+
+3. CSS Grid
+L> For laying out elements in a fully-fledggged 2-dimensional
+grid.
+- Perfect for page layouts and complex components.
