@@ -28,7 +28,8 @@ Basic CSS Grid Terminology
 - Grid cell: the areas created by the intersection of all these grid
      lines into which we can place our grid items (might be filled 
      by a grid item or not)
-- Gutters (gaps): spaces around the grid item within a grid cell
+- Gutters (gaps): spaces around the grid item within a grid cell. Can 
+     be created with gap
 - Grid track/row: a row in the grid
 - Grid track/column: a column in the grid
 
