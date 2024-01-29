@@ -1,0 +1,69 @@
+ Web Design Vs. Web Development
+
+ - Web designers create the overall look and feel of a website.
+ - web developers implement the design using HTML, CSS, and 
+    Javascript code.
+
+Why Take Design Seriously?
+
+Good Design
+- Creates an immediate and lasting good impression of the brand
+    or product
+- Makes the user trust the brand right away
+- Increases the user's perceived value of the product or brand
+- Gives users exactly what they were looking for when coming to
+    the site, eg purchasing a product or finding information
+
+
+Bad Design
+- Makes users believe the brand doesn't really care about their
+    product or service
+- Makes the user insecure about trusting the brand.
+- Makes the brand seem cheap.
+- Leaves users fonfused and makes it hard for them to reach
+    their goal.
+
+
+Anyone Can Learn Good Design!
+
+- Good web design is not subjective or creative
+- Everyone can learn basics by following a framework/system
+
+Web Design "Ingredients"
+1. Typography
+2. Colors
+3. Images/Illustrations
+4. Icons
+5. Shadows
+6. Border-radius
+7. Whitespace
+8. Visual Hierarchy
+9. User Experience
+10. Component Layout
+
+* - Design decisions for each ingredient are based on web-
+    site personality
+
+Overview of Website personality
+
+1. Serious/Elegant: for luxury and elegance, based on thin
+    serif typefaces, golden or pastel colors, and big high-
+    quality images.
+2. Minimalist/Simple: focuses on the essential text content
+    using small or medium-sized sans-serif text, and few images
+    and Icons
+3. Plain/Neutral: Design that gets out of the way by using neutral
+    and small typefaces, and a very structured layout. Common in
+    big corporations.
+4. Bold/confident: makes an impact by featuring big and bold 
+    typography paired with confident use of big and bright 
+    colored blocks.
+5. Calm/Peaceful: for products and services that care, transmitted
+    by calming pastel colors, soft serif headings, and matching 
+    images or Illustrations
+6. Startup/Upbeat: widely used in startups, featuring medium-sized
+    sans-serif typefaces, light-grey text and backgrounds, and 
+    rounded elements.
+7. Playful/fun: colorful and round designs, fueled by creative
+    elements like hand-drawn icons or illustrations, animations,
+    and fun language.
