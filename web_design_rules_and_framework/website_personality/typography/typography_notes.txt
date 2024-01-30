@@ -1,0 +1,90 @@
+Typography
+
+- Typography is the art and technique of arranging
+type to make written language legible, readable,
+and appealing when displayed.
+
+Serif vs Sans-Serif
+
+Serif
+- Serif has tails at the ends called serifs.
+- Creates a traditional/classic look and feel.
+- Conveys trustworthiness
+- Good for long text 
+
+Sans Serif
+- Do not have tails at the end
+- Modern look and feel
+- Clean and simple
+- Easier to choose for beginner designer
+
+
+Use Good typefaces
+- Use only good and popular typefaces and play
+    it safe.
+
+Sans-Serif
+- Inter
+- Open Sans
+- Roboto
+- Montserrat
+- Work Sans
+- Lato
+
+Serif
+- Merriweather
+- Aleo
+- Playfair Display
+- Cormorant
+- Cardo
+- Lora
+
+- It's okay to use just one typeface per page!
+    If you want more, limit to 2 typefaces
+
+- Choose the right typeface according to your
+    website personality
+    - Choose the right personality for your
+        website
+    - Decide between a serif and sans-serif 
+        typeface
+    - Experiment with all the "good" typefaces
+        (and other typefaces from Google Fonts!)
+        to see which ones best fits your web-
+        site's message (this will come with 
+        experience)
+    -You can keep trying different typefaces
+        as you design and build the page
+
+Use Good Font Sizes and Weights
+
+- When choosing font-sizes, limit choices!
+    Use a "type scale" tool or other pre-
+    defined range.
+- Use a font size between 16px and 32px for
+    "normal" text
+-For long text (like a blog post), try a size of
+    20px or even bigger
+- For headlines, you can go really big (50px+)
+    and bold (600+), depending on personality
+- For any text, don't use a font weight under
+    400 (regular)
+
+Create a Good Reading Experience 
+- Use less than 75 characters per line
+- For normal-sized text, use a line height
+    between 1.5 and 2. For big text, go below
+    1.5
+        - The smaller or longer the text,
+            the larger the line height
+            needs to be!
+- Decrease letter spacing in headlines, if 
+    it looks unnatural(this will come from 
+    experience)
+- Experiment with all caps for short titles.
+    Make them small and bold and increase letter-
+    spacing
+- Usually, don't justify text
+- Don't center long text blocks. Small blocks
+    are fine.
+
