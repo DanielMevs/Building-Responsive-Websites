@@ -1,0 +1,46 @@
+Use Good Icons
+
+1 - Use a good icon pack, there are tons of free
+    and paid icon packs.
+    - You can just use emojis as well
+
+2 - Use only one icon pack. Don't mix icons from
+    different icon packs.
+
+3 - Use SVG icons or icon fonts. Don't use bitmap
+    image formats (.jpg and .png)
+
+    Bitmap
+        - "Regular images", JPG, PNG, GIF
+        - Do not scale, become unsharp
+    
+    Vector-Based
+        - SVG images and icon fonts
+        - Scale indefinitely
+
+4 - Adjust to website personality! Roundness,
+    weight and filled/outlined depend on typo-
+    graphy
+
+When to Use Icons
+
+5 - Use icons to provide visual assistance to text
+
+6 - Use icons for product feature blocks
+
+7 - Use icons associated with actions, and label
+    them (unless no space or icon is 100% clear)
+
+8 - Use icons as bullet points
+
+Use Icons well
+
+9 - To keep icons neutral, use same color as text.
+    To draw more attention, use a different color
+
+10 - Don't confuse your users: icons need to make
+    sense and fit the text or action
+
+11 - Don't make icons larger than what they were
+    designed for. If needed, enclose them in a 
+    shape
