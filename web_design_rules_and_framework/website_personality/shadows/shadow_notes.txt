@@ -1,0 +1,35 @@
+Use Shadows Well
+
+1 - You don't have to use shadows! Only use the if it makes
+    sense for the website personality.
+
+    - The more serious or elegant you want to come across,
+        the less shadow you would use - The more playful or fun you
+         are trying to come accross, the more shadow you would use.
+
+
+2 - Use shadows in small doses: don't add shadows to every element!
+
+
+3 - Go light on shadows, don't make them too dark!
+
+
+Use Shadows in the Right Situation
+
+4 - Use small shadows for smaller elements that should stand
+    out (to draw attention)
+
+
+5 - Use medium-sized shadows for larger areas that should stand
+    out a bit more
+
+
+6 - Use large shadows for elements that should really float
+    above the interface.
+
+
+7 - Experiment with changing shadows on mouse interaction
+    (click and hover)
+
+
+8 - Bonus: Experiment with glows (colored shadows)

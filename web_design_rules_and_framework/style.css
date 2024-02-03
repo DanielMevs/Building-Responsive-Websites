@@ -71,6 +71,8 @@ h1 {
   font-size: 44px;
   line-height: 1.1;
   letter-spacing: -1;
+
+  /* text-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2); */
 }
 
 .header-text {
@@ -126,8 +128,18 @@ img {
 }
 
 /* CHAIRS */
+.chair {
+  box-shadow: 0px 20px 30px 0 rgba(0, 0, 0, 0.1);
+}
 .chair-box {
   padding: 24px;
+  /* Box shadow values: 
+   1. Horizontal offset
+   2. Vertical offset
+   3. Blur 
+   4. Value to scale shadow up
+   5/ Color of shadow
+   */
 }
 
 h3 {
