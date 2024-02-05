@@ -1,0 +1,43 @@
+Why Whitespace
+
+- The right amount of whitspace makes designs look
+    clean, modern and polished
+
+- Whitespace communicates how different pieces of
+    information are related to one another
+
+- Whitespace implies inviible relationships bet-
+    ween the elements of a layout.
+
+Where to Use Whitespace
+
+1 - Use tons of whitspaces between sections
+
+2 - Use a lot of whitespace between groups
+    of elements.
+    - There is usually or vertical whitespace 
+        than there is hornizontal ws.
+
+3 - Use white between elements
+
+4 - Inside groups of elements, try to use
+    whitespace instead of lines.
+
+How Much Whitespace?
+
+5 - The more some elements (or groups of elements)
+    belong together, the closer they should be!
+    L> This is known as the "Law of Proximity"
+
+6 - Start with a lot of whitespace, maybe even 
+    too much! Then remove whitespace from there.
+    L> Too much whitespace looks detached, while
+        too little looks too crammed.
+    L> Make sure elements have room to breathe,
+        but not too detached or crammed.
+
+7 - Match other design choices. If you have big
+    text or big icons, you need more whitespace.
+
+8 - Try a hard rule, such as using multiples of
+    16px for all spacing.
