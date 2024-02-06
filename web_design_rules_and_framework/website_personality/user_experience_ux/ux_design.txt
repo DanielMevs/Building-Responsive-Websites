@@ -1,0 +1,72 @@
+What is User Experience (UX)?
+
+"Design is not just what it looks like and feels
+like. Design is how it works."
+- Steve Jobs
+
+User Interface (UI) is the visual presentation
+of a product. It's how the graphical interface 
+looks and feels like
+L> Layout
+L> Personality
+L> Typography, colors, icons, etc.
+
+User Experience (UX) is the overall experience 
+the user has while interacting with the product.
+L> Does the app feel logical and well thought out?
+L> Does the navigation work intuitively?
+L> Are users reaching their goals.
+
+UI is graphical interface 
+L> UI Design is what makes an interface beautiful
+
+UX is experience with interface
+L> UX Design is what makes an interface useful
+and functional
+
+UX Design Guiding Principle: Goals 
+- A website or application exists for a reason:
+a user has a goal for visiting it, and a busi-
+ness has a goal for creating it.
+
+
+UX Rules For Usability
+
+1 - Don't design complicated layouts. Don't re-
+invent the wheel. Use patterns that users know.
+
+2 - Make your call-to-action the most prominent
+element, and make the text descriptive.
+
+3 - Use blue text and underlined text only for
+links!
+
+4 - Animations should have a purpose and be 
+fast: between 200 and 500 ms.
+
+5 - In forms, align labels and fields in a 
+single vertical line, to make the form easier
+to scan
+
+6 - Offer user good feedback for all actions:
+form errors, form success, etc... [web apps]
+
+7 - Place action buttons where they will 
+create an effect (law of locality)[web apps]
+
+
+UX Rules for Website Content
+
+8 - Use a descriptive, keyword-focused head-
+line on your main page. Don't be vague or 
+fancy!
+
+9 - Only include relevant information, eff-
+iciently! Cut out fluff and make the content 
+100% clear.
+
+10 - Use simple words! Avoid technical jargon
+and "smart-sounding" words
+
+11 - Break up long text with sub-headings,
+images, block quotes, bullet points, etc...
