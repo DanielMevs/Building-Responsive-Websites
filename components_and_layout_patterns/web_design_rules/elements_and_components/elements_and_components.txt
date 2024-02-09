@@ -1,0 +1,45 @@
+From Elements to Webpage
+
+Elements -> Components -> Layouts -> Webpage
+
+1 - Use common elements and components to 
+    convey your website's information
+
+2 - Combine components into layouts using 
+    common layout patterns.
+
+3 - Assemble different layout area into a 
+    complete, final page
+
+Gallery Index: Elements, Sections, patterns
+
+A. Elements
+- Text
+- Buttons
+- Images
+- Input elements 
+- Tags
+
+B. Components
+- Breadcrumbs
+- Pagination
+- Alert and status bars
+- Statistics
+- Gallery
+- Feature Box
+- Preview and profile cards
+- Accordian
+- Tabs
+- Carousel
+- Customer testimonials
+- Customer logos
+- Featured-in logos
+- Steps
+- Forms
+- Tables
+- Pricing Tables
+- Modal windows
+
+
+C. Section components 
+D. Layout Pattern
