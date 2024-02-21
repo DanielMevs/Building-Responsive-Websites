@@ -1,0 +1,42 @@
+1. Navigation
+Navigation bar at the top of the page.
+When the user hovers over items, submenus
+appear.
+
+Alternatively, you can have a panel that 
+appears that takes up a large width of
+the page.
+
+2. Hero Section
+Section immediately below navbar
+Text on one side and photo
+on the other.
+Most common.
+Headlines, paragraph, button, image
+Background image with text on top
+
+3. Footer
+
+Links, submit form
+Company logo
+
+4. Call to action Section
+Close to the end of the page
+After presenting information,
+the section that states a Call
+to action, like subscribing or 
+buying a product.
+Uses the concept of social proof
+using customer logos to show that
+the product is trusted by others.
+
+
+5. Feature row
+Display some feature of the product
+or service. 
+Some kind of image on one side,
+and some kind of text on the other side.
+Optionally, there are buttons that
+lead to another page.
+
+

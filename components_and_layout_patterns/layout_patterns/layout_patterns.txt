@@ -1,0 +1,55 @@
+1. Row of Boxes/Cards
+
+2. Grid of Boxes/cards
+
+Aside: We can nest patterns
+in Components
+Patterns can contain
+components which can
+in turn contain more
+patterns.
+
+3. Z-Pattern
+
+Combination of feature rows
+with alternating configurations
+Visually looks like a V pattern
+traced by our eyes.
+Our eyes have a tendency to
+scan opposing rows.
+Could be 2-3 rows 
+
+4. F-Pattern
+The configuration of the rows
+does not alternate.
+Usually consists of images on
+the left and text content on
+the left.
+Inverted F-Pattern is the 
+reverse.
+
+5. Single Column Pattern
+Used on mobile phones or 
+simple blog posts or 
+minimalist sites.
+
+6. Sidebar pattern
+Can be used for blogs,
+or options for a web 
+applications, a table
+of contents, or a 
+summary.
+A side bar where 
+all the different 
+options are located.
+
+7. Multi-Column/Magazine layout
+Combining different columns with
+different widths to create
+a more traditional magazine 
+layout
+
+8. Asymmetry/Experimental pattern
+Creative, stand-out designs that 
+are meant to have a certain impact
+to the users.
