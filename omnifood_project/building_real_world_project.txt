@@ -1,0 +1,121 @@
+The Process Behind Building a Website
+
+1. Define
+L> Define WHO the website is for.
+Is it for yourself?
+For a client of your agency?
+Define what the website is for.
+L> In other words, define business
+and user goals of your website
+project (see UX lecture)
+Business goal example: Selling
+premium dog food.
+User goal example: Finding
+high-quality dog food for a
+good price.
+L> Define a target audience. Be
+really specific if possible and
+if it makes sense for your web-
+site (this can come from your
+client)
+L> Example: "Women 20 to 40 years
+old, living in Europe, earning
+over 2000 euros / month, with
+a passion for dogs.
+
+
+
+2. Plan the Project 
+L> Plan and gather website content:
+copy (text), images, videos, etc...
+L> Content is usually provided by the
+client, but you also can help them
+produce and find some content (simply
+finding free images is easiest, but
+if they want copy, charge them extra)
+L> For bigger sites, plan out the 
+sitemap: what pages the site needs,
+and how they are related to one another
+(content hierarchy)
+L> Based on the content, plan what 
+sections each page needs in order to
+convey the content's message, and in
+which order
+L> Define the website personality 
+(see web design section)
+
+
+
+3. Sketch
+L> Think about what components you need,
+and how you can use them in layout patterns
+L> Get ideas out of your head: sketch them
+with pen and paper or with some design 
+software (e.g. Figma)
+L> This is an iterative process: experiment
+with different components and layouts, until
+you arrive at a first good solution
+L> You don't need to sketch everything, and
+don't make it perfect. At some point, you're 
+ready to jump into HTML and CSS
+
+
+
+4. Design and Build Website
+L> Use decisions, content and sketches from
+Steps 1, 2 and 3 to design and build the 
+website with HTML and CSS ("designing in the 
+browser")
+L> You already have the layout and components
+that you selected in step 3. In this step, 
+you need to design the actual visual styles
+L> Create the design based on selected web-
+site personality, the design guidelines I
+showed you, and inspiration
+L> Use the client's branding (if it exists
+already) for design decisions whenever 
+possible: colors, typography, icons, etc...
+
+
+
+5. Test and Optimize
+L> Make sure website works well in all major
+browsers (Chrome, Firefox, Safari, Edge)
+L> Test the website on actual mobile devices,
+not just in DevTools
+L> Optimize all images, in terms of dimensions
+and file size (see lecture on images).
+L> Fix simple accessibility problems (e.g.
+color contrast issues)
+L> Run the Lighthouse performance test in 
+Chrome DevTools and try to fix reported issues.
+L> Think about Search Engine Optimization (SEO)
+
+
+
+6. Launch
+L> Once all work is done, everything is perfect,
+and you got approval from your client (or yourself),
+it's time to share your masterpiece with the world!
+L> Upload your website files to a hosting platform.
+There are countless platforms, we will use the one
+with a free plan (Netlify)
+L> Choose and buy a great domain name, one that 
+represents the brand well, is memorable and easy
+to write.
+
+
+
+7. Maintain and Update
+L> Launching is not the end...
+L> Keep the website content updated over time.
+L> If you're working with a client, you can 
+create a monthly maintenance contract (recurring
+revenue)
+L> Install analytics software (e.g. Google analytics
+or Fathom) to get statistics about website users.
+This may inform future changes in the site struct-
+ure and content.
+L> A blog that is updated regularly is a good way
+to keep users coming back, and is also good for
+SEO.
