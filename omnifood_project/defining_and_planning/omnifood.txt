@@ -1,0 +1,27 @@
+A website that uses AI to create and 
+deliver healthy, custom meal-plans.
+Before they can actually launch their
+product, they need a new beautiful,
+modern, and clean website.
+A website that will make them
+look like a professional and 
+trustworthy company.
+Image I was hired by Omnifood
+to design and build their marketing
+website using HTML and CSS.
+
+Define the Who the website is for
+L> For a client
+
+Define what the website is for/
+what is the user/business goal
+L> Business goal: selling monthly
+food subscription
+L> User goal: Eating well effortlessly,
+without spending a lot of time and 
+money
+
+Define target audience
+L> Busy people who like technology,
+are interested in a healthy diet, and
+have a well-paying job.
