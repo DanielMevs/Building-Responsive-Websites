@@ -21,7 +21,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 4.8rem;
 }
 .main-nav-link:link,
 .main-nav-link:visited {
@@ -56,19 +56,6 @@
 .section-hero {
   background-color: #fdf2e9;
   padding: 4.8rem 0 9.6rem 0;
-}
-
-@media (max-width: 600px) {
-  .section-hero {
-    border: 20px dashed blue;
-    background-color: blue;
-  }
-}
-
-@media (max-width: 1200px) {
-  .section-hero {
-    background-color: orangered;
-  }
 }
 
 .hero {
